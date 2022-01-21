@@ -27,6 +27,7 @@ This assignment is meant to be an exercise on continuing to practice the use oof
 
 The above is a table
 
+~~this is a strike through~~
 
 I've learned in git the following:
 mkdir  use " " when adding a file name with spaces
